@@ -318,6 +318,6 @@ capítulo."
 
 > "além de estudar e ler sobre boas práticas, leia também sobre maus cheiros"
 
-[Resumo do capítulo 9](app/capitulo4/resumo_capitulo4-ocp.md)
+[Resumo do capítulo 9](app/capitulo9/capitulo_9_code_smells.md)
 
-[Agile Principles, Patterns and Practices in C#](app/capitulo4/ocp_arquitetura_hexagonal_e_clean_architecture.md)
+[Guia visual de Design Smells](app/capitulo9/guia-visual-de-design-smells-em_PHP.md)
